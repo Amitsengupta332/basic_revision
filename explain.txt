@@ -1,0 +1,27 @@
+//? pointer  কি
+
+/*
+pointer is a variable that store the address
+
+
+address রাখার জন্য জায়গাটাকে pointer বলে
+
+address থাকে hexadecimal format এ,
+
+int a = 10;
+int *p = &a; -> এইভাবে pointer declare করা হয়
+
+
+pointer er power holo :
+
+ * store the address
+ * change there value
+
+
+ https://github.com/phitronio/Conceptual-Sessions-Code/blob/main/Batch%207/C%2B%2B/Week%201-1/0_topics.txt
+
+
+
+
+
+*/
